@@ -1,0 +1,1 @@
+proyect created to solv the issue what have so many of system engennering students, we want to make a functional calculator of discrets maths, and with that turn easier the resolution of this type of problems
